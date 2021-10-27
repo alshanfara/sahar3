@@ -74,7 +74,7 @@ label.ae.fa.label {
 }
 
 .bg {
-    background-color: #222222
+    background-color: #222222!important;
 }
 
 #des3,#des4 {
